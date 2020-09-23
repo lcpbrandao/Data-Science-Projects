@@ -4,3 +4,12 @@ Repositório destinado a projetos de Data Analytics, análise exploratória de d
 
 Lista de projetos:
 
+-
+-
+-
+-
+-
+-
+
+![logo_lcpbrandao](logo_lcpbrandao.png)
+
