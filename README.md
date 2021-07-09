@@ -1,17 +1,15 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LaisllaBrandão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laislla-pinheiro-brandão-19762229/)](https://www.linkedin.com/in/laislla-pinheiro-brandão-19762229/)
+[![Linkedin Badge](https://img.shields.io/badge/-LaisllaBrandão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laislla-pinheiro-brandao/)](https://www.linkedin.com/in/laislla-pinheiro-brandao/)
 
-# Data_Science_Projects
+# Data Science Projects
 
-Repositório destinado a projetos de Data Analytics, análise exploratória de datasets públicos, estudos e treinamento de algoritmos de Machine Learning.
+Repository for Data Analytics projects, exploratory analysis of public datasets, studies and Machine Learning algorithms training.
 
-Lista de projetos:
+List of projects:
 
-- Predicting Covid-19
--
--
--
--
--
+- Kaggle - Big Five Personalities Test Classification
+- Kaggle - Health Insurance Cross Sell Prediction (ON GOING)
+- Kaggle - Predicting Cardiovascular Diseases (ON GOING)
+
 
 ![logo_lcpbrandao](logo_lcpbrandao.png)
 
